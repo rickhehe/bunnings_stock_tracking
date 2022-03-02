@@ -1,6 +1,8 @@
 # Bunnings Stock Tracking
 ## Is stock avialability notifier a better name?
 
+## **token** and **clientID** is subject expiration!
+
 This is another request from an internal customer (AKA the Wife). She is interested in a product which is currently out of stock (at the time of first commit), and she want's to be notified when it is back in stock in any of the Christchurch stores.
 
 Interested products can be defined in the **products.csv**. The record in the file is for demonstration only. It does not have energy monitoring function which means I can track the power consumption.
