@@ -1,7 +1,7 @@
 # Bunnings Stock Tracking
 ## Is stock avialability notifier a better name?
 
-## **token** and **clientID** are subject expiration!
+## **token** and **clientID** are subject to expiration!
 
 This is another request from an internal customer (AKA the Wife). She is interested in a product which is currently out of stock (at the time of first commit), and she want's to be notified when it is back in stock in any of the Christchurch stores.
 
